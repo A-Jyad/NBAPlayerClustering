@@ -92,7 +92,7 @@ class Cluster:
     def dendrogram_plot(self):
         plt.figure(figsize=(15, 6)) 
         plt.title('Hierarchical Clustering Dendrogram')
-        plt.xlabel('States')
+        plt.xlabel('Data Points')
         plt.ylabel('distance')
         dendrogram(self.linked,
                    orientation='top', #The direction to plot the dendrogram
