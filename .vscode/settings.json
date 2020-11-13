@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "e:\\NBA Cluster Analysis\\NBA_Analysis\\Scripts\\python.exe",
-    "python.dataScience.jupyterServerURI": "local",
-    "git.ignoreLimitWarning": true
+    "python.pythonPath": "NBA_Cluster_Analysis\\Scripts\\python.exe",
+    "git.ignoreLimitWarning": true,
+    "jupyter.jupyterServerType": "local"
 }
